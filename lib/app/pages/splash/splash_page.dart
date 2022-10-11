@@ -13,7 +13,7 @@ class SplashPage extends StatefulWidget {
   @override
   State<SplashPage> createState() => _SplashPageState();
 }
-
+///xddc
 class _SplashPageState extends State<SplashPage>
     with Loader<SplashPage>, Messages<SplashPage> {
   @override
